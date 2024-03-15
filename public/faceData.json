@@ -1,0 +1,42 @@
+[
+    {
+      "id": "1",
+      "name": "John Doe",
+      "time": "12",
+      "image": "https://example.com/images/john_doe.jpg",
+      "tag": "employee",
+      "date": "2024-03-15",
+      "markedAsRead": false,
+      "readsCount": 0
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "time": "20",
+      "image": "https://example.com/images/jane_smith.jpg",
+      "tag": "visitor",
+      "date": "2024-03-15",
+      "markedAsRead": true,
+      "readsCount": 10
+    },
+    {
+      "id": "3",
+      "name": "Michael Johnson",
+      "time": "10",
+      "image": "https://example.com/images/michael_johnson.jpg",
+      "tag": "employee",
+      "date": "2024-03-15",
+      "markedAsRead": false,
+      "readsCount": 0
+    },
+    {
+      "id": "4",
+      "name": "Emily Brown",
+      "time": "3",
+      "image": "https://example.com/images/emily_brown.jpg",
+      "tag": "visitor",
+      "date": "2024-03-15",
+      "markedAsRead": false,
+      "readsCount": 0
+    }
+  ]
